@@ -1,6 +1,6 @@
 # HACKATHON car brand web scraper
 
-A sneak peak into our HACKATHON app backend script I wrote, since it may help someone in the future 
+A sneak peak into our HACKATHON app backend script I wrote, since it may help someone in the future <br />
 Scrapes slovak car data from a website using a license plate number, since slovak gov doesn't provide an API for this :)
 
 
