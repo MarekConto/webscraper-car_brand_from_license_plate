@@ -8,10 +8,10 @@ Scrapes slovak car data from a website using a license plate number, since slova
 Takes json file as argv that might look something like this : 
 
 {
-"<license plate number>",
-"<license plate number>",
-"<license plate number>",
-"<license plate number>"
+"license plate number",
+"license plate number",
+"license plate number",
+"license plate number"
 }
 
 ///////////////////////////////////////////////////////////////////
@@ -22,10 +22,10 @@ And adds brand of given car if license plate is valid, or "Default" otherwise :
 
 ex. 
 {
-"<license plate number>":"Fiat",
-"<license plate number>:"Aston Martin",
-"<license plate number>":"Default",
-"<license plate number>":"Skoda"
+"license plate number":"Fiat",
+"license plate number:"Aston Martin",
+"license plate number":"Default",
+"license plate number":"Skoda"
 }
 
 ///////////////////////////////////////////////////////////////////
