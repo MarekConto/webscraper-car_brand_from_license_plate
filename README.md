@@ -30,6 +30,6 @@ ex.
 
 ///////////////////////////////////////////////////////////////////<br />
 
-This made for a seamless and easy car brand and adeqate brand icon assignment once a user added their car's license plate in the dashboard, which removed unnecessary clutter of having more fields to fill in when registering your car and made the UX better. 
+This made for a seamless and easy car brand and adeqate brand icon assignment once a user added their car's license plate in the dashboard, which removed unnecessary clutter of having more fields to fill in when registering their car and made the UX better. 
 
 ![Alt text](preview.png?raw=true "App integration")
